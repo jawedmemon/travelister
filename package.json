@@ -1,0 +1,23 @@
+{
+  "name": "travelister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawedmemon/travelister.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawedmemon/travelister/issues"
+  },
+  "homepage": "https://github.com/jawedmemon/travelister#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
